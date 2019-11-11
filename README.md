@@ -25,4 +25,4 @@ And that should be it for building the project!
 
 # License
 
-This example is under the MIT license.
+This example is under the MIT license. See [LICENSE.md](https://github.com/Jaguar-515/selene-roblox-game/blob/master/LICENSE.md) regarding information about the license.
