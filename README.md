@@ -17,7 +17,7 @@ Clone this repository:
 
 `git clone https://github.com/Jaguar-515/selene-roblox-game.git`
 
-Then, build the project using Rojo:
+Then, inside the cloned repository folder, build the project using Rojo:
 
 `rojo build --output selene-roblox-game.rbxlx`
 
